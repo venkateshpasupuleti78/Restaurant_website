@@ -32,7 +32,7 @@ To run this project locally, make sure you have the following:
 - Internet connection (for loading external resources like fonts/icons)
 
 ###  Project Files
-- `Restaurant_English.html` – Main HTML structure of the website
+- `Restaurant.html` – Main HTML structure of the website
 - `style.css` – Styling and layout
 - `script.js` – Smooth scrolling functionality using jQuery
 
@@ -48,7 +48,7 @@ To run this project locally, make sure you have the following:
 ##  How to Run
 
 1. Clone or download this repository.
-2. Open `Restaurant_English.html` in your browser.
+2. Open `Restaurant.html` in your browser.
 3. Enjoy the fully interactive and responsive experience.
 
 ---
